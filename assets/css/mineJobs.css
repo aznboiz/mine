@@ -1,0 +1,192 @@
+h1{
+	color: #999999;
+}
+
+h2{
+	color: #999999;
+}
+
+h3{
+	color: #FFFFFF !important;
+}
+
+p{
+	color: inherit;
+}
+
+.highlight {
+	background-color: #0065FF !important;
+	color: #FFFFFF !important;
+}
+
+.show {
+	visibility: visible !important;
+}
+
+.hide {
+	visibility: hidden !important;
+}
+
+.textCenter {
+	text-align: center !important;
+}
+
+.reduceWidth {
+	color: #999999;
+	margin: 1% 20% !important;
+}
+
+.footerPlacement {
+	float:left !important;
+	margin: 0 20px !important;
+}
+
+.leftMenuText {
+	color: #E0601B;
+}
+
+.mainCon {
+	float:right !important; 
+	clear:right !important;
+}
+
+.leftMenu {
+	float: left !important;
+	position: fixed !important;
+	background: inherit;
+	overflow-y: auto;
+	height: 90% !important;
+}
+
+.viewDetails {
+	float: right;
+}
+
+.loadingImg {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loadingMod {
+	width: 3% !important;
+    margin-left: auto;
+    margin-right: auto;
+	top:40% !important;
+}
+
+.rank {
+	color: green;
+	font-size: 24px;
+}
+
+.changeWidth{
+	width: 64%;
+	float: left;
+}
+
+.profilePic{
+	width: 25%;
+	float: right;
+}
+
+.sidebarColor{
+	background: inherit;
+	border: none;
+/* 	background-image:url('http://representuw.com/MineJobs/assets/img/paper_row2.png');
+	background-size: 100%;
+	background-repeat: repeat-y; */
+}
+
+.navbar-color{
+	background-color: #59AB7C;
+}
+
+.heroColor{
+	background:inherit;
+	color: white;
+	padding: 40px !important;
+	padding-bottom: 10px !important;
+}
+
+.modalColor{
+	background-image:url('http://representuw.com/MineJobs/assets/img/Chalkboard-mini.jpg');
+}
+
+.modalFooterColor{
+	background: inherit;
+	clear: right;
+	position: relative;
+	height: 30px;
+}
+
+.colorBlack{
+	color: #999999;
+}
+
+.leftMenuTextOrange{
+	color: #E0601B;
+}
+
+.leftMenuTextGrey{
+	color: #999999;
+}
+
+.clearLeft{
+	clear: left;
+}
+
+.showSlider{
+	display: block !important;
+}
+
+.hideSlider{
+	display: none !important;
+}
+
+.skillsClass{
+}
+
+.sliderValue{
+
+}
+
+.jobBgImg{
+	padding: 5% 1% 1% 1%;
+	background-image:url('http://representuw.com/MineJobs/assets/img/post-it-note-md.png');
+	background-size: 100%;
+}
+
+.rowMargin{
+	margin: 10px;
+}
+
+.modalFont{
+	float: left;
+	color: #FFFFFF;
+	width: 70%;
+}
+
+.noMatch{
+	color: #FFFFFF;
+}
+
+.refineBtn{
+	float: right;
+}
+
+.expClass{
+
+}
+
+.modalKeywords{
+	color: #FFFFFF;
+	float: right;
+	width: 24%;
+	height: 430px;
+	overflow: auto;
+}
+
+.modalList{
+	margin: 0;
+}
